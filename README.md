@@ -237,4 +237,4 @@ This repository serves as the official landing page for Internet Explorer 7 Stan
 **Get the most recent version of Internet Explorer 7 Standalone today!**
 
 ---
-**Last updated:** 2026-09-25 12:40:14 UTC
+**Last updated:** 2026-09-25 17:43:13 UTC
